@@ -27,9 +27,12 @@ Properly commented code.
 
 ## Run Project
 ### first clone the project 
-git clone git remote git project
+git clone git remote add origin https://github.com/reshma429/contactmanager.git
 ### install packages
     npm install
 ### run project
    npm run dev
-   
+
+
+## Deployed link
+https://contactsandcharts.netlify.app/
